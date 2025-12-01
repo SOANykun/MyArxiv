@@ -4,7 +4,7 @@ cache_url = "https://SOANykun.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
+category = "cs.DC"
 title = "Computation and Language"
 
 [[sources]]
