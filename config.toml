@@ -44,13 +44,13 @@ title = "Performance"
 
 [[sources]]
 limit = 150
-category = "cs.AI"
-title = "Artificial Intelligence"
+category = "cs.PL"
+title = "Programming Languages"
 
 [[sources]]
 limit = 150
-category = "cs.PL"
-title = "Programming Languages"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
